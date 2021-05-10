@@ -12,15 +12,10 @@
     "jest": true
   },
   "settings": {
-    "polyfills": [
-      "fetch"
-    ]
+    "polyfills": ["fetch"]
   },
   "rules": {
-    "semi": [
-      2,
-      "never"
-    ],
+    "semi": [2, "never"],
     "no-unexpected-multiline": 2,
     "compat/compat": 2
   }
